@@ -19,7 +19,7 @@ dictionary = p1.bag_of_words(train_texts)
 train_bow_features = p1.extract_bow_feature_vectors(train_texts, dictionary)
 val_bow_features = p1.extract_bow_feature_vectors(val_texts, dictionary)
 test_bow_features = p1.extract_bow_feature_vectors(test_texts, dictionary)
-# PROBLEM 5
+
 """
 toy_features, toy_labels = toy_data = utils.load_toy_data('toy_data.tsv')
 
@@ -40,7 +40,7 @@ plot_toy_results('Average Perceptron', thetas_avg_perceptron)
 plot_toy_results('Pegasos', thetas_pegasos)
 """
 #-------------------------------------------------------------------------------
-# Problem 7
+# Testing algo?
 #-------------------------------------------------------------------------------
 """"
 T = 10
@@ -61,7 +61,7 @@ print("{:50} {:.4f}".format("Training accuracy for Pegasos:", avg_peg_train_accu
 print("{:50} {:.4f}".format("Validation accuracy for Pegasos:", avg_peg_val_accuracy))
 """
 #-------------------------------------------------------------------------------
-# Problem 8
+
 #-------------------------------------------------------------------------------
 """
 data = (train_bow_features, train_labels, val_bow_features, val_labels)
@@ -100,7 +100,7 @@ utils.plot_tune_results('Pegasos', 'L', Ls, *peg_tune_results_L)
 # test_bow_features and test_labels.
 #-------------------------------------------------------------------------------
 """
-# Your code here
+
 data = (train_bow_features, train_labels, val_bow_features, val_labels)
 T = 25
 L =  0.01
@@ -125,7 +125,7 @@ test_acc = p1.accuracy(pred_test, test_labels)
 
 print("Accuracy on the test set: {:.3f}".format(test_acc))
 
-best_theta = theta # Your code here
+best_theta = theta 
 
 wordlist = [word for (idx, word) in sorted(zip(dictionary.values(), dictionary.keys()))]
 sorted_word_features = utils.most_explanatory_word(best_theta, wordlist)
