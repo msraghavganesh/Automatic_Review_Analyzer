@@ -17,3 +17,60 @@ The result is a living institutional memory that reduces dependency on individua
 The primary customers of this solution are employees within Global Projects at ExxonMobil, particularly engineers, project managers, discipline leads, and rotating role holders. Secondary customers include new joiners, early-career professionals, and cross-functional teams seeking expertise outside their immediate network.
 Leads and subject matter experts will interact with the platform by documenting non-standard cases, lessons learned, technical decisions, and handover insights in a structured format. Employees facing technical challenges will use the AI-enabled search engine to retrieve similar past solutions, identify relevant experts, and access contextual documentation or learning videos. During role rotations, outgoing and incoming employees will leverage the living handover thread to review cumulative guidance rather than restarting documentation from scratch.
 At an organizational level, leadership and project excellence teams can analyze clustered data to identify recurring inefficiencies, innovation opportunities, and cross-project patterns. Ultimately, this platform impacts knowledge continuity, onboarding efficiency, collaboration, and innovation across the Global Projects organization, creating a scalable institutional memory framework
+
+
+Key req.
+
+Key Requirements & Implementation Plan
+To successfully implement this initiative within ExxonMobil, a structured 1–2 year phased roadmap with dedicated resources is required.
+1️⃣ Budget Estimate
+Requested Investment: $150,000–$200,000 USD
+This budget will primarily support:
+Dedicated IT development resources
+AI configuration and clustering capability
+Platform integration with existing systems (e.g., SharePoint, Teams, EEMTV)
+Pilot program execution and change management
+Governance framework and content standardization
+This is a modest investment relative to potential productivity gains across Global Projects.
+2️⃣ Core Resources Required
+🔹 People
+1 Product Owner (Global Projects)
+1 Project Manager (part-time)
+2 IT/Digital platform developers
+1 AI/Analytics specialist
+3–5 SME advisors (rotational)
+Change management support
+🔹 Technical
+Integration with EEMTV (existing internal video ecosystem)
+SharePoint/Teams-based documentation backbone
+AI layer for tagging, clustering, and smart retrieval
+Secure data governance and access control framework
+3️⃣ Phased Timeline (1–2 Years)
+Phase 1 (0–6 Months) – Foundation
+Define taxonomy & tagging structure
+Build documentation templates
+Pilot structured knowledge repository
+Integrate EEMTV channels
+Limited AI search functionality
+Phase 2 (6–12 Months) – Intelligence Layer
+Deploy AI clustering
+Enable smart recommendations
+Build SME mapping capability
+Expand pilot to multiple project groups
+Phase 3 (12–24 Months) – Enterprise Scaling
+Global Projects-wide rollout
+Analytics dashboards for leadership
+Pattern recognition for recurring inefficiencies
+Innovation matchmaking capability
+4️⃣ Resource Commitment
+Concept framing and pilot validation can begin within my current role.
+However, scalable development requires dedicated digital resources.
+No major external vendor support is required if internal platforms are leveraged, though targeted AI advisory support may accelerate advanced features.
+Winning Mindset Positioning
+This is not a documentation tool.
+It is an Institutional Memory Engine.
+For <$200K, we move from:
+Memory-based operations
+to
+AI-enabled cumulative intelligence.
+That’s strategic, scalable, and future-proof.
