@@ -74,3 +74,8 @@ Memory-based operations
 to
 AI-enabled cumulative intelligence.
 That’s strategic, scalable, and future-proof.
+
+
+why timeline
+
+We selected a 1–2 year implementation horizon because this initiative represents both a technical deployment and a cultural transformation within ExxonMobil. While enabling technologies exist, the true effort lies in defining governance standards, building AI-enabled clustering, integrating platforms such as EEMTV, and piloting across Global Projects. More importantly, this shifts how teams “get work done”—from memory-driven knowledge sharing to structured institutional intelligence. Adoption, training, leadership alignment, and behavioral change require phased rollout and validation, making a deliberate 1–2 year timeline both realistic and strategically responsible
