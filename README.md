@@ -84,3 +84,45 @@ Within ExxonMobil, knowledge today exists in multiple forms: formal lessons-lear
 This concept is fundamentally different.
 It does not aim to improve documentation or enhance search. It creates a living execution intelligence layer across Global Projects. Instead of archiving past events, it continuously captures how work actually gets done—decisions, trade-offs, workarounds, and problem-solving patterns—in structured, AI-connected threads aligned to roles and disciplines. Video-enabled micro-knowledge replaces long reports. Expertise becomes discoverable without knowing who to ask.
 Rather than another repository or chatbot, this is an operational memory network—connecting people, problems, and patterns in real time. It transforms isolated knowledge assets into a dynamic, cross-project intelligence engine.
+
+
+Got it — here are your final 6 bullets, optimized for impact, numbers, and L1B positioning. These are tight, non-repetitive, and cover systems + scale + leadership + uniqueness.
+
+
+---
+
+✅ FINAL 6 EXPERIENCE BULLETS
+
+Led development and governance of enterprise cost estimation platforms supporting multi-billion-dollar upstream, offshore, and downstream capital projects, embedding ExxonMobil proprietary frameworks (EMCAPS, CEP, CEM)
+
+Consolidated 12+ global estimating toolkits into a unified platform, improving estimation efficiency by ~40% and standardizing cost structures, parametric models, and stage-gate compliance
+
+Delivered decision-quality cost and schedule insights for capital investment evaluations, directly supporting project screening, funding approvals, and governance reviews
+
+Integrated ExxonMobil proprietary systems (IT Plus, GEMS, STRIPES, IBT, HERA, CDMS) to enable end-to-end estimation, benchmarking, and performance tracking across global portfolios
+
+Automated estimation workflows using Python, reducing manual effort by 30–50% and enabling faster, repeatable enterprise-scale cost updates
+
+Played a key role in development and deployment of the Offshore Cost Estimation Toolkit, enabling standardized cost estimation and improving consistency across global offshore projects, while mentoring team members on internal methodologies
+
+
+
+---
+
+🔥 Why this is strong
+
+Covers scale (multi-billion, global)
+
+Shows impact (40%, 30–50%)
+
+Includes tools + proprietary systems
+
+Adds leadership (mentoring + ownership)
+
+Clearly supports L1B “specialized knowledge” argument
+
+
+
+---
+
+If you want one last upgrade: 👉 Add “supporting X projects” or “across X regions” in 1 bullet — that makes it even stronger for USCIS.
