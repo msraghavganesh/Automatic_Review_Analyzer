@@ -126,3 +126,17 @@ Clearly supports L1B “specialized knowledge” argument
 ---
 
 If you want one last upgrade: 👉 Add “supporting X projects” or “across X regions” in 1 bullet — that makes it even stronger for USCIS.
+
+
+
+Here’s a tight, one-paragraph executive summary — sharp, high-impact, and L1B-focused:
+
+
+---
+
+Technology Engineer with specialized expertise in ExxonMobil’s proprietary cost estimation systems, project controls methodologies, and capital project governance frameworks within the Global Projects organization. Proven experience in developing and applying enterprise-scale estimation and analytics platforms that embed ExxonMobil-specific cost structures, benchmarking systems, and stage-gate processes to support multi-billion-dollar upstream, offshore, and downstream investments. Possesses in-depth knowledge of internal tools and data systems (IT Plus, SAP-based platforms, IBT, HERA, CDMS), enabling delivery of decision-quality cost and schedule insights. This expertise is developed through hands-on experience with ExxonMobil’s proprietary systems and is not readily transferable outside the organization.
+
+
+---
+
+If you want it even tighter (3–4 lines), I can compress it further without losing impact.
