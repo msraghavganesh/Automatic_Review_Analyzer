@@ -330,3 +330,103 @@ If there's even a small doubt → wording needs to be sharper.
 ---
 
 If you want, next step I can help you with: 👉 A **2 min 15 sec spoken script** your manager can literally use in calibration (this is where most people lose the rating, not the document).
+
+
+
+
+heee
+
+
+Excellent! I now have everything I need. Let me analyze all the KO feedback and draft your complete polished one-pager targeting **Outstanding**.
+
+Now let me carefully read all the KO feedback and draft the full one-pager:
+
+Here's my full analysis and the **complete drafted one-pager** targeting Outstanding:
+
+---
+
+## Best KO Quotes Selected (for maximum impact)
+
+**For Strengths — Creates Clarity:**
+> *"His ability to break down complex equations into clear, comparable components enabled productive discussions and drove meaningful alignment on viable solutions."*
+
+**For Strengths — Promotes Innovation:**
+> *"Raghav brings a structured, outcomes-focused approach to innovation... consistently tests assumptions against real use cases, scalability considerations, and longer-term strategic intent."*
+
+**For Strengths — Compete to Win:**
+> *"The greatest strength Raghav demonstrated was passion for competing to win. The Cost Publications and Cost Survey required significant coordination and collaboration with others both within and outside of ExxonMobil."*
+
+**For Dev Need — Communication at Scale:**
+> *"Opportunity to strengthen message calibration... more consistently tailoring messaging to the audience and fully assessing downstream impacts."*
+
+**For Dev Need — Inspire & Motivate / Developing Others:**
+> *"Raghav would benefit from expanding knowledge-sharing into IT and automation skills for the broader CSE community... amplifying his impact and accelerating adoption of efficient, technology-enabled ways of working."*
+
+---
+
+## ✅ FULL DRAFTED ONE-PAGER
+
+---
+
+**BUSINESS RESULTS / Accomplishments**
+
+**MAGNET & Cost Survey – Automation & Regional Credibility**
+Built an ML-ready automation platform replacing analyst-intensive workflows; reduced labor from 6 analysts/10 weeks → 1 analyst/week per CP cycle. Simultaneously led end-to-end Middle East cost survey restoring regional credibility after a 14-year data gap. Recognized by SLT.
+
+**C-PIE – Driving Enterprise Estimating Vision**
+Conceptualized and led cross-functional evaluation of Palantir, Outsystems, and Airtable across CSE, GPIT, S&I, and PP&E. Data-driven recommendations shaped CSE's estimating strategy toward a predictive, integrated ecosystem — influencing $50M investment direction.
+
+**Offshore CET – Simplification at Scale**
+Harmonized 12 complex tools into 1 comprehensive solution embedding ML-driven topsides weight & hull models. Institutionalized Guyana learnings into CSE standard toolkits. Achieved 40% efficiency gain; CSE Innovation Award.
+
+**CPMTechnology – Enterprise SharePoint at Scale**
+Architected "Design One, Build Many" CSE SharePoint framework — integrating 8 sites into 1 cohesive environment, improving efficiency by 60% in BTC. Empowered 120+ EM teams to innovate; recognized by CSE Manager.
+
+---
+
+**DEVELOPMENT NEEDS / Areas for Improvement**
+
+**Communication at Scale** *(Behavioral — tied to Expectations of Leaders: Create Clarity)*
+Continue sharpening executive-level storytelling — more consistently calibrating messages to audience needs and fully assessing downstream impacts before sharing. Balancing enthusiasm with precision will strengthen credibility as scope and visibility grow.
+
+KO Quote: *"Opportunity to strengthen message calibration and stakeholder perception management by more consistently tailoring messaging to the audience and fully assessing downstream impacts."*
+
+**Inspire & Motivate – Scale Impact Through Others** *(Behavioral — tied to Expectations of Leaders: Inspire & Motivate)*
+Continue expanding CSE work to IT and broader business groups — sharing expertise through structured, repeatable knowledge-transfer mechanisms to drive lasting organizational capability beyond immediate team.
+
+KO Quote: *"Expanding knowledge-sharing into IT and automation skills for the broader CSE community would amplify his impact and accelerate adoption of technology-enabled ways of working."*
+
+**Project Controls Exposure** *(Technical)*
+Broader exposure to project controls frameworks would have strengthened Raghav's ability to serve the indirect harmonization initiative more effectively — enabling deeper cross-functional impact.
+
+---
+
+**STRENGTHS**
+
+**Promotes Innovation**
+Raghav challenges traditional approaches with a structured, outcomes-focused lens — consistently testing assumptions against real use cases and strategic intent. Delivered MAGNET and C-PIE recommendations that shifted enterprise direction.
+KO Quote: *"Consistently challenges the status quo by identifying opportunities to automate and modernize processes... delivered measurable productivity gains."*
+
+**Creates Clarity**
+Distills complex, ambiguous problems into clear insights enabling disciplined decisions — demonstrated through C-PIE platform recommendations and EMEA cost survey work.
+KO Quote: *"His ability to break down complex equations into clear, comparable components enabled productive discussions and drove meaningful alignment on viable solutions."*
+
+**Compete to Win**
+Leveraged full strength of ExxonMobil — building external relationships, collaborating across CSE, GPIT, S&I, and PP&E — to deliver enterprise outcomes on Cost Publications and Cost Survey.
+KO Quote: *"His greatest strength was passion for competing to win... required significant coordination both within and outside of ExxonMobil."*
+
+**Develops Others**
+Mentored 120+ EM teams via reusable CPMTechnology packages; coordinated enterprise learning forums (EMSCEN, POD, Offshore Training) engaging 100+ participants — enabling cross-functional teams to independently deliver innovation.
+
+---
+
+**STEP OUTS**
+- Architected reusable CPMTechnology packages enabling 120+ EM teams to build modern webapps; multiple teams received innovation awards
+- A.GAME Finalist — recognized by President, Supply Chain for innovation excellence
+- Delivered enterprise learning programs (EMSCEN, POD, Offshore Training) reaching 100+ participants
+
+---
+
+This is structured for **Outstanding** rating — every bullet ties to functional priorities, Expectations of Leaders, and has measurable business impact. 
+
+Want me to now **count words and trim to ~300** for the main content sections, or refine any specific section first?
