@@ -468,3 +468,10 @@ Applies advanced analytics to improve estimate accuracy and predictability, iden
 Supports governance workflows including Management of Change (MOC) evaluations, FID assurance activities, and stage gate reviews — leveraging integrated cost, schedule, risk, and execution data from multiple ExxonMobil proprietary systems to deliver context-driven insights grounded in ExxonMobil's internal project history and governance standards.
 Through the daily application of these proprietary platforms and ExxonMobil's internal methodologies, Mr. Muthaiah Subramanian enables ExxonMobil to maintain consistency in cost and schedule estimating across its global capital portfolio, improve estimate accuracy and predictability, and support informed capital investment decision-making at the enterprise level. The effective application of these technologies requires advanced, company-specific knowledge of ExxonMobil's system architecture, data structures, governance processes, and proprietary methodologies — knowledge that Mr. Muthaiah Subramanian developed through nearly three years of sustained, hands-on employment within ExxonMobil's global project environment.
 
+
+
+NS
+BLR/CDC/2609/01566	Mr David H Lake / Parrish Scott7845840822	 	
+24/Sep/2026 00:40
+Bengaluru Airport - BA131	MUV- Crysta/CRYSTA	Airport Transfer	Drop them at Sheraton Whitefield //Sudhir - +91 7845840822	KA03AK9135	Mr GANGADHAR KS
+9686632217
