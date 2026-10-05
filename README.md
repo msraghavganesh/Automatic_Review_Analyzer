@@ -34,7 +34,7 @@ Governance framework and content standardization
 This is a modest investment relative to potential productivity gains across Global Projects.
 2️⃣ Core Resources Required
 🔹 People
-1 Product Owner (Global Projects)
+1 Product Owner (Global Projects)i
 1 Project Manager (part-time)
 2 IT/Digital platform developers
 1 AI/Analytics specialist
@@ -474,4 +474,147 @@ NS
 BLR/CDC/2609/01566	Mr David H Lake / Parrish Scott7845840822	 	
 24/Sep/2026 00:40
 Bengaluru Airport - BA131	MUV- Crysta/CRYSTA	Airport Transfer	Drop them at Sheraton Whitefield //Sudhir - +91 7845840822	KA03AK9135	Mr GANGADHAR KS
-9686632217
+
+
+I am going to upload photos of my handwritten notes from a multi-day workshop.
+
+Your task is to accurately transcribe, interpret, and structure my handwritten notes into clean digital workshop notes.
+
+1. Understand my notation system
+
+Each checkbox (☐) represents one separate line of discussion, which may be:
+
+- A discussion point
+- An answer/response
+- An action item
+- A follow-up
+- A decision
+- A question/topic
+
+Do NOT combine separate checkboxes unless they are clearly part of the same thought.
+
+2. Meaning of annotations
+
+If something is written to the LEFT of a checkbox, interpret it according to these rules:
+
+- Future → This indicates a follow-up / future action / action item. Clearly mark it as such.
+- ANS → This means the item is an answer/response, not an action item.
+- PH → Phil Stalman, Execution Manager.
+- DW → Dan Wizinski, CPM Vice President.
+- VERN → Vern, senior engineering leader.
+- If another person's name/initials appears and you are not certain who it refers to, preserve exactly what is written rather than guessing.
+
+Important: These annotations are my shorthand. Do not treat "PH", "DW", or "VERN" as literal unexplained acronyms in the final output unless the context is genuinely ambiguous.
+
+3. Double exclamation marks
+
+Whenever you see:
+
+!!
+
+interpret this as a change of topic / change of presentation / new section.
+
+Use it as a natural section break in the digital notes.
+
+Do not treat "!!" as part of the actual discussion content unless it clearly is.
+
+4. Transcription rules
+
+- Preserve the meaning and intent of my original notes.
+- Correct obvious spelling mistakes and handwriting-related transcription errors.
+- Expand abbreviations only when their meaning is clear from the rules above or context.
+- Do NOT invent information.
+- If handwriting is genuinely unclear, write [unclear] rather than guessing.
+- If you are uncertain between two possible words, flag it as [unclear: possible word].
+- Preserve numbers, dates, names, technical terms, acronyms, and project terminology carefully.
+- Maintain the chronological/order-of-notes flow as much as possible.
+- If multiple photos overlap, do not duplicate the overlapping content.
+
+5. Classify each checkbox
+
+For every checkbox, determine the most appropriate type:
+
+- Discussion
+- Answer
+- Action / Follow-up
+- Decision
+- Question
+- Information
+
+Use Action / Follow-up whenever the "Future" notation indicates that something needs to happen later.
+
+If the classification is uncertain, use the most conservative classification and do not invent an action.
+
+6. People
+
+When a person's shorthand appears, identify them in the final notes:
+
+- PH → Phil Stalman — Execution Manager
+- DW → Dan Wizinski — CPM Vice President
+- VERN → Vern — Engineering leader
+
+If the person's role is relevant to the sentence, include it naturally.
+
+7. Output format
+
+Create a professional, executive-friendly digital version of the notes.
+
+Use this structure:
+
+Workshop Notes
+
+Day / Session / Topic
+
+If the date or session can be determined from the notes, include it. Otherwise, use a sensible generic heading.
+
+Topic 1
+
+- Discussion: ...
+- Answer: ...
+- Action / Follow-up: ...
+- Decision: ...
+
+Only include categories that actually exist.
+
+Topic 2
+
+...
+
+---
+
+Action Items / Follow-ups
+
+Create a consolidated table at the end:
+
+#| Action / Follow-up| Owner| Context / Notes
+1| ...| ...| ...
+
+Only include genuine action items/follow-ups. Do not turn ordinary discussion or answers into actions.
+
+If an owner is not specified, write Not specified.
+
+---
+
+Key Decisions
+
+List the important decisions separately.
+
+---
+
+Key Answers / Clarifications
+
+List important answers or clarifications separately when useful.
+
+Important
+
+The handwritten notes are the source of truth.
+
+Do not summarize so aggressively that information is lost. First accurately reconstruct what I wrote, then organize it into a cleaner professional format.
+
+Where interpretation is required, prioritize:
+
+1. What is physically written
+2. My notation rules above
+3. Context from surrounding notes
+
+Never fabricate missing information.
